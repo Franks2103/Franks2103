@@ -1,13 +1,51 @@
-<h1 align="center">Hi 👋, I'm Franks2103</h1>
-<h3 align="center">A versatile developer from Colombia passionate about both frontend and backend technologies, API development, and exploring the potential of AI.</h3>
+# Hi 👋, I'm Franks2103
+
+### A versatile Full-Stack Developer from Colombia, passionate about AI, frontend & backend technologies, and system optimization.
 
 <p align="left"> <a href="https://twitter.com/frankgames21" target="blank"><img src="https://img.shields.io/twitter/follow/frankgames21?logo=twitter&style=for-the-badge" alt="frankgames21" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, TypeScript, and advanced CSS animations**
+- 🌱 I’m currently diving deep into **Next.js**, **TypeScript**, and **advanced CSS animations**.
+- 💬 Ask me about **React**, **responsive design**, **frontend performance**, and **AI-powered systems**.
+- ⚡ Fun fact: I think I’m pretty funny — I love coding jokes and memes! 😄
 
-- 💬 Ask me about **React, responsive design, frontend performance**
+---
 
-- ⚡ Fun fact **I think I am funny — I love coding jokes and memes!**
+I’m a **Full-Stack Software Developer** with a solid track record in designing and building scalable web solutions and optimized backends. Currently, I’m part of the development team at **Andes AI**, where I work on **large language models (LLMs)** and the development of intelligent systems that automate processes and enhance user interactions.
+
+My expertise bridges the backend—optimized for **Linux environments**, particularly **Arch Linux**—with intuitive, high-performance frontend interfaces using **React** and **Next.js**. I am passionate about both backend and frontend development, and I approach each layer as an opportunity for innovation and efficiency.
+
+---
+
+### 💡 Key areas of expertise:
+- **Full-Stack Web Development**: **React**, **Next.js**, **Node.js**, **Laravel**
+- **Design and consumption of robust RESTful APIs**
+- **AI-powered conversational systems** and chatbots
+- **Backend development** optimized for **Linux** environments
+- **Database integration** with **SQL Server** and **PostgreSQL**
+- **Mobile development** with **Flutter**
+- Backend programming in **C#**, **PHP**, and ongoing learning in **C** and **assembly language**
+- **QA testing** and **technical documentation**
+
+---
+
+### 📌 Selected projects:
+- **Smart enterprise chatbots** for workflow automation
+- **Mental health virtual assistant** powered by conversational AI
+- **Medical triage system** with a conversational interface and animated avatar
+- **Inventory management system** built with **C#** and **SQL Server**
+- **CRUD-based mobile apps** in **Flutter** integrated with **REST APIs**
+- **Official website** for **Andes AI**
+- **Custom chatbot** and backend solutions for **tech-sector clients**
+
+---
+
+I’m a **self-taught problem solver** with strong leadership and communication skills, capable of driving end-to-end project development. I enjoy diving into system-level programming, backend performance, and emerging AI technologies. I’ve led project teams and collaborated across disciplines, thriving in fast-paced, agile environments.
+
+I’m actively looking to contribute to remote, agile teams focused on **AI**, **automation**, and **scalable full-stack architectures**—places where **innovation**, **autonomy**, and **technical excellence** are truly valued.
+
+---
+
+If you’re building something that merges **AI**, **automation**, and **robust systems**—let’s connect!
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
