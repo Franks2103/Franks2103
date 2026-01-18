@@ -1,4 +1,4 @@
-# Hi 👋, I'm Frank Teheran
+# Hi, I'm Frank Teheran
 
 ### Backend & AI-focused Software Engineer
 
