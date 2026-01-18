@@ -22,7 +22,6 @@
 <p align="left">
 <a href="https://github.com/Franks2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Franks2103" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/franks2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franks2103" height="30" width="40" /></a>
-<a href="https://discord.gg/frannn_k_12734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="frannn_k_12734" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
