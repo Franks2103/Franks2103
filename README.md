@@ -1,26 +1,14 @@
 <div align="center">
 
 <img
-  src="https://github.com/Franks2103.png"
-  width="125"
-  alt="Frank Teheran"
+  src="./asset/banner.svg"
+  width="100%"
+  alt="Frank Teheran — Backend & AI Software Engineer"
 />
 
-# Frank Teheran
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+%26+AI+Software+Engineer;Building+reliable+AI-powered+systems;Backend+Architecture+%C2%B7+Automation+%C2%B7+Applied+AI;From+prototype+to+production-ready+software"
-    alt="Typing animation"
-  />
-</a>
+<br />
 
 <p>
-  I build reliable backend platforms, automation systems and applied AI products
-  designed for real operational environments.
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/franks2103">
     <img
       src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"
@@ -42,7 +30,8 @@
     />
   </a>
 </p>
-<p align="center">
+
+<p>
   <img
     src="https://komarev.com/ghpvc/?username=Franks2103&label=Profile%20views&color=0D1117&style=flat-square"
     alt="Profile views"
@@ -63,7 +52,9 @@
     alt="Backend and Applied AI"
   />
 </p>
+
 </div>
+
 
 ---
 
