@@ -20,46 +20,49 @@
   designed for real operational environments.
 </p>
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/franks2103">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Frank%20Teheran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"
       alt="LinkedIn"
     />
   </a>
+
   <a href="mailto:teheransepulvedafrankjesus@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
       alt="Email"
     />
   </a>
+
   <a href="https://drive.google.com/file/d/1aNQ7SwX2ob-e3vOXQ2SnRIADEmWuxagN/view">
     <img
-      src="https://img.shields.io/badge/View%20My-CV-2563EB?style=for-the-badge&logo=googledrive&logoColor=white"
-      alt="CV"
+      src="https://img.shields.io/badge/View%20CV-0D1117?style=for-the-badge&logo=googledrive&logoColor=58A6FF"
+      alt="View CV"
     />
   </a>
 </p>
-
-<p>
+<p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Franks2103&label=Profile%20views&color=2563eb&style=flat-square"
+    src="https://komarev.com/ghpvc/?username=Franks2103&label=Profile%20views&color=0D1117&style=flat-square"
     alt="Profile views"
   />
+
   <img
-    src="https://img.shields.io/badge/Barranquilla-Colombia-FCD116?style=flat-square&logo=googlemaps&logoColor=111827"
+    src="https://img.shields.io/badge/544%20contributions%20in%202026-0D1117?style=flat-square&logo=github&logoColor=58A6FF"
+    alt="544 contributions in 2026"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Barranquilla%2C%20Colombia-0D1117?style=flat-square&logo=googlemaps&logoColor=FCD116"
     alt="Barranquilla, Colombia"
   />
+
   <img
-    src="https://img.shields.io/badge/Focus-Backend%20%26%20Applied%20AI-111827?style=flat-square"
+    src="https://img.shields.io/badge/Backend%20%26%20Applied%20AI-0D1117?style=flat-square&logo=openai&logoColor=A371F7"
     alt="Backend and Applied AI"
   />
-  <img
-    src="https://img.shields.io/badge/Open%20to-Collaboration-16A34A?style=flat-square"
-    alt="Open to collaboration"
-  />
 </p>
-
 </div>
 
 ---
