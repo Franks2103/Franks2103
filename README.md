@@ -67,22 +67,41 @@
 
 ---
 
-## 🧠 About me
+## About
 
-I'm a **Software Engineer based in Barranquilla, Colombia**, focused on backend engineering, artificial intelligence and business process automation.
+I'm a **Backend & AI Software Engineer from Barranquilla, Colombia**, building reliable APIs, automation platforms and applied AI systems.
 
-I design APIs, microservices, asynchronous workflows, conversational systems and AI-powered platforms that move beyond prototypes into maintainable products.
+I work across the complete product lifecycle—from backend architecture and data modeling to LLM integration, asynchronous processing, observability and deployment.
 
-- 🔭 I'm currently building **backend, automation and applied AI systems through Bandelion**.
-- 🏗️ I work with **APIs, microservices, background processing and distributed architectures**.
-- 🤖 I integrate **LLMs, RAG, embeddings, voice models and agent workflows** into real products.
-- 🌱 I'm currently exploring **advanced system design, reliable AI systems and LLM evaluation**.
-- 👯 I'm open to collaborating on **backend-heavy projects, AI platforms and developer tools**.
-- 💬 Ask me about **FastAPI, NestJS, PostgreSQL, Docker, RAG and AI system architecture**.
-- 🧑‍🏫 I previously worked as a technical mentor at **SENA / TecnoParque Atlántico**.
-- 💼 I previously worked on backend and AI integrations at **Andes AI**.
-- 🌎 Spanish native with professional working proficiency in English.
-- ⚡ I care about **why systems are built, how they fail and whether they remain useful after the prototype**.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Building
+
+- Microservices and asynchronous workflows
+- RAG and agent-based systems
+- Voice and conversational interfaces
+
+</td>
+<td width="50%" valign="top">
+
+### Exploring
+
+- Advanced system design
+- Reliable and observable AI
+- LLM evaluation
+- Developer productivity tooling
+
+</td>
+</tr>
+</table>
+
+**Previously:** Technical Mentor at **SENA / TecnoParque Atlántico** and Backend & AI Engineer at **Andes AI**.
+
+**Open to:** Backend-heavy products, applied AI platforms, automation systems and developer tools.
+
+> Good engineering is not only making a system work. It is understanding how it behaves when things go wrong.
 
 ---
 
