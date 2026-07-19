@@ -25,7 +25,7 @@
 
   <a href="https://drive.google.com/file/d/1aNQ7SwX2ob-e3vOXQ2SnRIADEmWuxagN/view">
     <img
-      src="https://img.shields.io/badge/View%20CV-0D1117?style=for-the-badge&logo=googledrive&logoColor=58A6FF"
+      src="https://img.shields.io/badge/View%20CV-0D1117?style=for-the-badge&logo=googledocs&logoColor=58A6FF"
       alt="View CV"
     />
   </a>
@@ -38,8 +38,8 @@
   />
 
   <img
-    src="https://img.shields.io/badge/544%20contributions%20in%202026-0D1117?style=flat-square&logo=github&logoColor=58A6FF"
-    alt="544 contributions in 2026"
+    src="https://img.shields.io/badge/1%2C098%20contributions%20in%202026-0D1117?style=flat-square&logo=github&logoColor=58A6FF"
+    alt="1,098 contributions in 2026"
   />
 
   <img
@@ -54,7 +54,6 @@
 </p>
 
 </div>
-
 
 ---
 
@@ -73,6 +72,7 @@ I work across the complete product lifecycle—from backend architecture and dat
 - Microservices and asynchronous workflows
 - RAG and agent-based systems
 - Voice and conversational interfaces
+- AI-powered operational platforms
 
 </td>
 <td width="50%" valign="top">
@@ -233,6 +233,26 @@ I focus on:
 
 </div>
 
+<br />
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=Franks2103&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=F778BA&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"
+  />
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=Franks2103&hide_border=true&background=00000000&stroke=D0D7DE&ring=0969DA&fire=CF222E&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A"
+    alt="Frank Teheran's GitHub contribution streak"
+  />
+</picture>
+
+</div>
+
+<br />
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -271,52 +291,88 @@ I focus on:
 
 ---
 
-## 🔬 Currently exploring
+## Current focus
 
 <div align="center">
 
-`Advanced System Design` ·
-`Reliable AI Systems` ·
-`Agent Architectures` ·
-`LLM Evaluation` ·
-`Developer Tooling`
+<code>🧩 System Design</code>&nbsp;&nbsp;
+<code>🛡️ Reliable AI</code>&nbsp;&nbsp;
+<code>🤖 Agent Architectures</code>&nbsp;&nbsp;
+<code>🧪 LLM Evaluation</code>&nbsp;&nbsp;
+<code>🛠️ Developer Tooling</code>
 
 </div>
 
+<br />
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🤝 Open to collaboration
+
+Backend platforms, applied AI systems, automation products and developer productivity tools.
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 💼 Available for
+
+Technical collaboration, open-source projects and software engineering opportunities.
+
+</td>
+</tr>
+</table>
+
 ---
-
-## 🤝 Let's connect
-
-I'm interested in backend-heavy applications, applied AI systems, automation platforms and developer productivity tools.
 
 <div align="center">
 
-<a href="https://github.com/Franks2103">
-  <img
-    src="https://img.shields.io/badge/GitHub-Franks2103-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
+## Connect with me
 
-<a href="https://linkedin.com/in/franks2103">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-franks2103-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+<p>
+  <a href="https://github.com/Franks2103">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 
-<a href="mailto:teheransepulvedafrankjesus@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Gmail"
-  />
-</a>
+  <a href="https://linkedin.com/in/franks2103">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:teheransepulvedafrankjesus@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://drive.google.com/file/d/1aNQ7SwX2ob-e3vOXQ2SnRIADEmWuxagN/view">
+    <img
+      src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"
+      alt="Resume"
+    />
+  </a>
+</p>
 
 <br />
+
+### Building systems that remain useful beyond the prototype.
+
+<p>
+  <code>⚙️ Backend Engineering</code>&nbsp;&nbsp;
+  <code>🔁 Automation</code>&nbsp;&nbsp;
+  <code>🧠 Applied AI</code>&nbsp;&nbsp;
+  <code>📦 Product Systems</code>
+</p>
+
 <br />
 
-### Build systems that are useful, observable and maintainable.
-
-**Backend · Automation · Applied AI · Product Engineering**
+<sub>📍 Barranquilla, Colombia · Spanish &amp; English</sub>
 
 </div>
